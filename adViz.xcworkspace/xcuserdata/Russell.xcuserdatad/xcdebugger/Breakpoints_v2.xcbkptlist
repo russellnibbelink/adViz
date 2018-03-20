@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adViz/DialogViewController.swift"
+            timestampString = "471193490.328719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.__deallocating_deinit"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191648.720244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; adViz.DialogViewController"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191648.722487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adViz.DialogViewController&gt;"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191648.722644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adViz/DialogViewController.swift"
+            timestampString = "471193490.328719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.__deallocating_deinit"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191844.204152"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; adViz.DialogViewController"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191844.204299"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adViz.DialogViewController&gt;"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191844.204397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adViz/DialogViewController.swift"
+            timestampString = "471193490.328719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.__deallocating_deinit"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191845.101891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; adViz.DialogViewController"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191845.10211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adViz.DialogViewController.init (adViz.DialogViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;adViz.DialogViewController&gt;"
+                  moduleName = "adViz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Russell/Documents/IEOR185/adViz/adViz/DialogViewController.swift"
+                  timestampString = "471191845.102268"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adViz/MapViewController.swift"
+            timestampString = "474015812.792431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "472"
+            endingLineNumber = "472"
+            landmarkName = "resultsController(_:didAutocompleteWithPlace:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adViz/MapViewController.swift"
+            timestampString = "474015812.792431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "reportAction(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
